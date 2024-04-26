@@ -1,2 +1,12 @@
 # Qt-FreezeSortTableView
-Add sorting function based on frozen columns, modified from Qt source code
+
+
+## Description
+Sortable FreezeTableView
+
+## Gif
+![image](display.gif "Display")
+
+## Build
+cmake add option -DCMAKE_PREFIX_PATH=D:\Qt\5.15.2\msvc2019_64
+
